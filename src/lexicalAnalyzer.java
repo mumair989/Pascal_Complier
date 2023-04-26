@@ -5,6 +5,8 @@
  */
 
 
+//nav-bar addded
+
 import java.io.*;
 import java.util.*;
 //lexical analyzer for the pascal language
